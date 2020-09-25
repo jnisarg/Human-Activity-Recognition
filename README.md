@@ -4,6 +4,8 @@ This project is to build a model that predicts the human activities such as Walk
 
 This dataset is collected from 30 persons(referred as subjects in this dataset), performing different activities with a smartphone to their waists. The data is recorded with the help of sensors (accelerometer and Gyroscope) in that smartphone. This experiment was video recorded to label the data manually.
 
+Data set can be downloaded from [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00240/).
+
 ## How data was recorded
 
 By using the sensors(Gyroscope and accelerometer) in a smartphone, they have captured '3-axial linear acceleration'(_tAcc-XYZ_) from accelerometer and '3-axial angular velocity' (_tGyro-XYZ_) from Gyroscope with several variations. 
